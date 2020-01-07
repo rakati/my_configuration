@@ -1,14 +1,14 @@
 {
-    // theme used Monokai Pro
+    "_comment": "theme used Monokai Pro",
     "workbench.colorTheme": "Monokai Pro",
     "workbench.iconTheme": "Monokai Pro Icons",
     "window.zoomLevel": -1,
     
-    // set vertical rule for 42 norme of c language.
-    // norminette rule : line must not be more then 80 characters
+    "_comment": "set vertical rule for 42 norme of c language.",
+    "_comment": "norminette rule : line must not be more then 80 characters",
     "editor.rulers": [80,120],
     
-    // set identation as default
+    "_comment": "set identation as default",
     "editor.insertSpaces": false,
     "editor.detectIndentation": false
 }
