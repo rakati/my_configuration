@@ -8,6 +8,9 @@
     "_comment": "norminette rule : line must not be more then 80 characters",
     "editor.rulers": [80,120],
     
+    "_comment": "trim file lines on save",
+    "files.trimTrailingWhitespace": true,
+    
     "_comment": "set identation as default",
     "editor.insertSpaces": false,
     "editor.detectIndentation": false
